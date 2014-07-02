@@ -33,5 +33,5 @@ and it will scroll the containing div
 
 
  
-  ![alt tag](https://raw.githubusercontent.com/imdwit/scrollet/master/IMG_0528.PNG
+  ![alt tag](https://raw.githubusercontent.com/imdwit/scrollet/master/IMG_0528.PNG)
   ![alt tag](https://raw.githubusercontent.com/imdwit/scrollet/master/IMG_0527.PNG)
