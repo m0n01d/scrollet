@@ -30,3 +30,8 @@ and the #container has all the content and an overflow
 var scrollr = new _scrollBar_('#container');
 
 and it will scroll the containing div
+
+
+ 
+  ![alt tag](https://raw.githubusercontent.com/imdwit/scrollet/master/IMG_0528.PNG
+  ![alt tag](https://raw.githubusercontent.com/imdwit/scrollet/master/IMG_0527.PNG)
