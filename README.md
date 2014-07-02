@@ -17,3 +17,16 @@ A bookmarlet that activates a scrollbar for mobile devices. Instead of flicking 
 
 I find it very useful on ‘mobile optimized’ sites, especially ones that lack inertial scrolling. But it will work the same on non-optimized sites.
 I use it for long form blog posts, like you'll find on medium.com
+
+
+Can also be used as a plugin 
+
+var scrollr = new _scrollBar_(); //defaults to window
+
+or if you have a <div id="container">content</div>
+
+and the #container has all the content and an overflow
+
+var scrollr = new _scrollBar_('#container');
+
+and it will scroll the containing div
